@@ -1,0 +1,2 @@
+com\spring\cloud\eureka\feign\client\FeignClientApplication.class
+com\spring\cloud\eureka\feign\client\GreetingClient.class
